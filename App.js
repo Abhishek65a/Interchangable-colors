@@ -16,6 +16,7 @@ function changeBackground(color){
         case"purple":
         body.classList.add("purple")
         break;
+
         case"blue":
         body.classList.add("blue")
         break;
@@ -28,11 +29,11 @@ function changeBackground(color){
         body.classList.add("green")
         break;
 
-        case"yellow ":
+        case"yellow":
         body.classList.add("yellow")
         break;
 
-        case"teal ":
+        case"teal":
         body.classList.add("teal")
         break;
 
